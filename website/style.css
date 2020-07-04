@@ -1,0 +1,45 @@
+#contentDiv {
+  background-image: url("assets/img/beautiful-clouds-cloudy-dramatic-209831.jpg?h=3faf3bea9a879ae501d21acec8c127b6");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+label {
+  font-size: 30px;
+  color: white;
+}
+input {
+  padding: 10px;
+  margin: 10px;
+  border-radius: 12px;
+}
+textarea {
+  padding: 10px;
+  margin: 10px;
+  border-radius: 12px;
+}
+h1 {
+  text-align: center;
+  color: white;
+}
+
+#entryHolder,
+#date,
+#temp,
+#content {
+  padding: 15px;
+  font-size: 25px;
+  color: goldenrod;
+}
+
+#content {
+  color: aqua;
+}
+
+#contentDiv {
+  text-align: center;
+  margin: 0 auto;
+  padding-bottom: 15px;
+}
+#contentDiv button {
+  font-size: larger;
+}
